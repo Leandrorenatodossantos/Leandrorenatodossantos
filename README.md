@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Leandro Renato — Coordenador de TI, dados e integração" width="100%" />
+  <img src="./assets/hero-animated.gif" alt="Capa animada de Leandro Renato: conexões de tecnologia em movimento, Coordenador de TI, dados e integração" width="100%" />
 </p>
 
 <p align="center">
