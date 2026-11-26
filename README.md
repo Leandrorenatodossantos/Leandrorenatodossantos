@@ -10,6 +10,10 @@
   Curitiba, PR
 </p>
 
+<p align="center">
+  <img src="./assets/technology-flow.gif" alt="Fluxo animado de sistemas, dados e decisões" width="100%" />
+</p>
+
 ## Tecnologia que entende o negócio
 
 Sou **Leandro Renato dos Santos**, **Coordenador de TI**, engenheiro de software e contador. Minha trajetória conecta processos, sistemas e dados para apoiar decisões e fazer a tecnologia funcionar melhor para as pessoas.
